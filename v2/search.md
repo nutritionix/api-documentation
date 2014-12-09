@@ -63,7 +63,7 @@ The response from this endpoint will be of `Content-Type: application/json`<br>
 | nutrients            | An {Array} of `Nutrient{Object}` which will be null unless `response.exact` is `true` |
 
 
-### [Nutrient{Object} Parameters](#nutrient-params)
+### Nutrient{Object} Parameters
 
 | Parameter            | Description                          |
 |--------------------- |--------------------------------------|
