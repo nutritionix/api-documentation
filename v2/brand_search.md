@@ -5,7 +5,7 @@ The V2 Brand Search API gives you the capability to query thousands of brands.
 
 ### HTTP GET to `/v2/search/brand`
 
-To perform a basic search make an HTTP `GET` request to the v2 search endpoint. `/v2/search`<br>
+To perform a basic search make an HTTP `GET` request to the v2 brand search endpoint. `/v2/search/brand`<br>
 **Note** that all parameters must be properly URL encoded.
 
 ### Request Parameters
