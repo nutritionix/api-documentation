@@ -1,6 +1,8 @@
 API V2: Search
 ======================================
 
+[Example](#example-response)
+
 The V2 search API gives you fast, responsive, and accurate results for cpg (consumer package goods), USDA, and restaurant foods.
 This version of search is based on `autocomplete` principles making it easy for you to show your users exactly what they're looking for.
 The API also attempts to find an `exact_match` for the search phrase and will explicitly tell you when a match has been found along side your standard results.
