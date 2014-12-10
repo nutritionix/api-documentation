@@ -26,4 +26,6 @@ One of the most common tasks we do when searching for something is reduce the no
 ```
 
 
-[1]: https://developer.nutritionix.com/v2/search
+Next: [Brand Search][1]
+
+[1]: https://developer.nutritionix.com/docs/v2/brand_search

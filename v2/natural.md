@@ -158,3 +158,7 @@ When they are viewed in the context of `total.nutrients` they represent the valu
   }
 }
 ```
+
+Next: [Basic Search][1]
+
+[1]: https://developer.nutritionix.com/docs/v2/search

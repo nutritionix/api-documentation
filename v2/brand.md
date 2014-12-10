@@ -32,3 +32,8 @@ The response from this endpoint will be of `Content-Type: application/json`<br>
   "item_count": 363
 }
 ```
+
+
+Next: [Error Handling][1]
+
+[1]: https://developer.nutritionix.com/docs/v2/error_handling

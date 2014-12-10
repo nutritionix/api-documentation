@@ -118,3 +118,7 @@ The response from this endpoint will be of `Content-Type: application/json`<br>
   }
 }
 ```
+
+Next: [View whole Brand Record][1]
+
+[1]: https://developer.nutritionix.com/docs/v2/brand

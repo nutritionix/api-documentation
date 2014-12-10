@@ -50,3 +50,7 @@ curl -XGET "https://api.nutritionix.com/v2/search/brands?q=mcdon&limit=1&offset=
   ]
 }
 ```
+
+Next: [View whole Item Record][1]
+
+[1]: https://developer.nutritionix.com/docs/v2/item

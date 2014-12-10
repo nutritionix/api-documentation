@@ -62,6 +62,6 @@ These are the attributes that will be available on each phrase returned
 
 
 
-Next: [Search Endpoint][1]
+Next: [Natural][1]
 
-[1]: https://developer.nutritionix.com/v2/search/advanced
+[1]: https://developer.nutritionix.com/docs/v2/natural
