@@ -5,7 +5,8 @@ The V2 Brand Search API gives you the capability to query thousands of brands.
 
 ### HTTP GET to `/v2/search/brand`
 
-To perform a basic search make an HTTP `GET` request to the v2 brand search endpoint. `/v2/search/brand`<br>
+To perform a basic search make an HTTP `GET` request to the endpoint above.
+
 **Note** that all parameters must be properly URL encoded.
 
 ### Request Parameters
@@ -21,7 +22,8 @@ To perform a basic search make an HTTP `GET` request to the v2 brand search endp
 | mobile_calc     | A {Boolean String} set to `mobile_calc=true` to include mobile restaurant caclulator url |
 | desktop_calc    | A {Boolean String} set to `desktop_calc=true` to include desktop restaurant calculator url |
 
-**limiting to more than one type** you can use the `type` parameter numerous times. Ex. `?type=1&type=3`
+**limiting to more than one type** you can use the `type` parameter numerous times. <br>
+Ex. `?type=1&type=3`
 
 ### Example Request in CURL
 
