@@ -26,3 +26,7 @@ If for some reason the token is lost you can generate a new one here.
 #### Embeding Gists
 
 You can get a list of html script tags by running `gistup scripts` in the directory of the documentation you want to embed.
+
+[Check out swagger spec][1]
+
+[1]: https://github.com/swagger-api/swagger-spec/blob/master/versions/2.0.md
