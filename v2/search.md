@@ -25,6 +25,7 @@ To perform a basic search make an HTTP `GET` request to the v2 search endpoint. 
 | limit           | An {Integer} as the maximum rendered results  **Requires `offset`** |
 | offset          | An {Integer} as search offset for paging through results **Requires `limit`** |
 | search_type     | A {String} representing the search mode. Must be one of the following (recipe, grocery, restaurant, usda) |
+| search_nutrient | A {String} representing the nutrient returned in search defaults to `calories`. Can be(calories, fat, protein, carb) |
 
 
 ### Example Request in CURL
