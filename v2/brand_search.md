@@ -29,7 +29,7 @@ Ex. `?type=1&type=3`
 
 ```sh
 # Note that authentication headers have been excluded for brevity.
-curl -XGET "https://api.nutritionix.com/v2/search/brands?q=mcdon&limit=1&offset=0&type=1"
+curl -XGET "https://apibeta.nutritionix.com/v2/search/brands?q=mcdon&limit=1&offset=0&type=1"
 ```
 
 #### Example Response

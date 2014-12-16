@@ -3,7 +3,7 @@ V2 Brand Model
 
 Example URL
 
-https://api.nutritionix.com/v2/brand/:brand_id
+https://apibeta.nutritionix.com/v2/brand/:brand_id
 
 
 ### Response Parameters

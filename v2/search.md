@@ -32,7 +32,7 @@ To perform a basic search make an HTTP `GET` request to the v2 search endpoint. 
 
 ```sh
 # Note that authentication headers have been excluded for brevity.
-curl -XGET "https://api.nutritionix.com/v2/search?q=greek%20yogurt&limit=10&offset=0&search_type=grocery"
+curl -XGET "https://apibeta.nutritionix.com/v2/search?q=greek%20yogurt&limit=10&offset=0&search_type=grocery"
 ```
 
 ### Response Parameters
@@ -114,6 +114,6 @@ The response from this endpoint will be of `Content-Type: application/json`<br>
 }
 ```
 
-Next: [More advanced usage of search endpoint][1]
+Next: [Brand Search][1]
 
-[1]: /docs/v2/advanced_search
+[1]: https://developer.nutritionix.com/docs/v2/brand_search

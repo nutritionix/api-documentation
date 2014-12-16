@@ -3,7 +3,7 @@ V2 Item
 
 Example URL
 
-https://api.nutritionix.com/v2/item/:id
+https://apibeta.nutritionix.com/v2/item/:id
 
 ### Response Parameters
 

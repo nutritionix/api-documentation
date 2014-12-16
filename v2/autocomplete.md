@@ -22,7 +22,7 @@ These parameters must be properly URL encoded and used in the query string
 This is an example for greek yogurt. Using the prefix `greek y`.
 
 ```sh
-curl -XGET "https://api.nutritionix.com/v2/autocomplete?q=greek%20y" -H 'X-APP-ID: YOUR_APP_ID' -H 'X-APP-KEY: YOUR_APP_KEY'
+curl -XGET "https://apibeta.nutritionix.com/v2/autocomplete?q=greek%20y" -H 'X-APP-ID: YOUR_APP_ID' -H 'X-APP-KEY: YOUR_APP_KEY'
 ```
 
 ### Response {Array} of Phrases

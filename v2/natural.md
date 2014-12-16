@@ -42,7 +42,7 @@ These options must be properly url encoded.
 ### Example request in CURL
 
 ```sh
-curl -XPOST 'https://api.nutritionix.com/v2/natural?gram_weight=20' \
+curl -XPOST 'https://apibeta.nutritionix.com/v2/natural?gram_weight=20' \
 -H 'X-APP-ID: YOUR_APP_ID' \
 -H 'X-APP-KEY: YOUR_APP_KEY' \
 -H 'Content-Type: text/plain' \

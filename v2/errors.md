@@ -3,7 +3,8 @@ V2 Error Handling
 
 The new error handling is simple and intuitive. When an error occurs the API will respond with a uniform output.
 
-#### Example Response `GET https://api.nutritionix.com/v2/itmess/:id`
+#### Example Response `GET https://apibeta.nutritionix.com/v2/item/:id`
+
 ```json
 {
   "errors": [
