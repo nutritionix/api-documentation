@@ -1,9 +1,13 @@
 V2 Item
 ========================
 
-Example URL
+### Request Parameters
 
-https://apibeta.nutritionix.com/v2/item/:id
+**Required Parameters**
+
+| Parameter       | Description                          |
+|-----------------|--------------------------------------|
+| resource_id     | A {String} as a path parameter can be an (item_id, resource_id, or UPC) |
 
 ### Response Parameters
 
@@ -65,6 +69,18 @@ The response from this endpoint will be of `Content-Type: application/json`<br>
 | unit           | A {String} as the nutrients unit of measurement |
 | name           | A {String} as the nutrients proper name |
 | usda_tag       | A {String} as the nutrients usda given abbreviation |
+
+
+### Example Request in CURL
+
+```sh
+# Note that authentication headers have been excluded for brevity.
+# This request looks up an item by its UPC
+curl -XGET "https://apibeta.nutritionix.com/v2/item/52200004265"
+```
+
+
+#### Example Response
 
 ```json
 {
