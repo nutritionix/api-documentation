@@ -76,6 +76,7 @@ The response from this endpoint will be of `Content-Type: application/json`<br>
 ```sh
 # Note that authentication headers have been excluded for brevity.
 # This request looks up an item by its UPC
+# In this case `resource_id` is `52200004265`
 curl -XGET "https://apibeta.nutritionix.com/v2/item/52200004265"
 ```
 
